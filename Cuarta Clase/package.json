@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "cuarta-clase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actividad1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon Cuarta Clase"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
