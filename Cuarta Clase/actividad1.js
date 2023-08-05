@@ -10,7 +10,7 @@ app.get("/usuario", (req,res)=>{
     res.send({
         nombre: "Juan",
         apellido: "Bogado",
-        edad: 24,
+        edad: 24, 
         correo: "juanjobogado13@gmail.com"
     })
 })
